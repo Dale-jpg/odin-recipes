@@ -3,5 +3,12 @@ body {
   }
 
 .text {
-    color:red
+    color:red;
+}
+
+h1 {
+    font-weight: bold;
+}
+h2 {
+    text-decoration: underline;
 }
